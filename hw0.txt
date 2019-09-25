@@ -1,3 +1,16 @@
 # Description of your program (part 7)
+	Create a word counter that tracks the total number of words. 
+	Use a scanner to look at every singular character in the file. 
+	If the character is a space or a number, ignore the item and 
+	move to the next. If the item is a letter, continue on to the 
+	next object until it is no longer a letter. The word count then
+	increases by one. Continue until there is nothing left in the
+	document. 
+
 
 # Reflection on writing your program (part 8)
+	I didn't personally enjoy the ambiguity of this assignment because
+	it makes the language and phrasing difficult to consider. Overall, 
+	the concept of the program seemed fairly simple, however I am basing
+	that off of my experience in CSE 142 (which is my only experience)
+	and thus I really have no idea what I'm doing!!
